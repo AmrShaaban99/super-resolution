@@ -91,16 +91,17 @@ We have used Tkinter library to create our application, Tkinter library is a cro
 First Page:
 The first page consists of  3 buttons, 2 dropdown menus, display image, loading bar as shown in figure below.
 
-![page one](readme_images/unknown1.png)
-![page one](readme_images/unknown.png)
-![page one](readme_images/unknown3.png)
+<img src="readme_images/unknown1.png" width="600"  height="400" palceholder="page one"/>
+<img src="readme_images/unknown.png" width="600"  height="400" palceholder="page one"/>
+<img src="readme_images/unknown3.png" width="600"  height="400" palceholder="page one"/>
+
 
 Second Page:
 The second page show displays which are Input Image (Low Resolution Image), Output Image (Super resolution Image), Image size (before and after scaling), The chosen modelwith 2 buttons as shown in figure below.
 
-![page two](readme_images/unknown4.png)
+<img src="readme_images/unknown4.png" width="600"  height="400" palceholder="page two"/>
 
 Third Page:
 The third page is the About Page, it displays the team members, supervisors, and a summary of the project as shown in figure below.
 
-![page three](readme_images/unknown5.png)
+<img src="readme_images/unknown5.png" width="600"  height="400" palceholder="page three"/>
