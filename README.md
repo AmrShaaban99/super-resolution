@@ -61,10 +61,14 @@ From the previous table, we have assumed that for scale 2 the best results are f
 The 4th column in the table is X2X2 where it’s an experiment to test the performance of double testing scale 2 and comparing it with scale 4. As seen, the difference between X2X2 and X4 are close. However, scale 4 takes more training time, while double scale 2 takes more testing time.
 
 ### The subjective
+### baby image
 ![baby image](readme_images/set5_baby.png)
+
+### butterfly image
 
 ![butterfly image](readme_images/set5_butterfly.png)
 
+### woman image
 ![woman image](readme_images/set5-woman.png)
 
 
