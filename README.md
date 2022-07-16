@@ -61,7 +61,7 @@ From the previous table, we have assumed that for scale 2 the best results are f
 
 ### The subjective
 ### comic image 
-![comic image](readme_images/set14_comic (2))
+![comic image](readme_images/set14_comic (2).png)
 
 ### woman image
 ![woman image](readme_images/set5-woman.png)
