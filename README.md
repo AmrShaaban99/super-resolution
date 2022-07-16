@@ -58,7 +58,6 @@ The performance can be assessed in 3 factors objectively (PSNR and SSIM), subjec
 
 
 From the previous table, we have assumed that for scale 2 the best results are for **Autoencoder (Deconvolution)** with results (34.45608/ 0.9142) and **RFDN** with results (34.13620/ 0.9069), While the worst results for **Let’s enhance** are (31.43409/0.80774) and **ESPCN** with results (31.66237/ 0.8891). However, for scale 4 ESRGAN has the best results are (32.0604/0.8103).
-The 4th column in the table is X2X2 where it’s an experiment to test the performance of double testing scale 2 and comparing it with scale 4. As seen, the difference between X2X2 and X4 are close. However, scale 4 takes more training time, while double scale 2 takes more testing time.
 
 ### The subjective
 ### baby image
