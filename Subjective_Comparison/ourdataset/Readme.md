@@ -1,2 +1,2 @@
-We used the comparison code to create a figure that you can use to compare 
-between the 7 implemented models and 3 testing models with your eye 
+![set5 comparison figure](P_Nature2.png)
+![set5 comparison figure](P_Toys.png)
