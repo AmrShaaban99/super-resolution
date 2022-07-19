@@ -1,6 +1,5 @@
 # super resolution
-we made a gui for the 7 implemented models.
-you can download it from here:[GUI](https://drive.google.com/drive/u/0/folders/18Rl6BXplY3IWJL8EgoU8C97STKo7gvEv)
+
 
 ## Table of Contents  
 * [Abstract](#abstract)  
@@ -30,13 +29,13 @@ The seven models have been trained on DIV2K dataset, which contains **900 RGB im
 ## Testing
 We have generated the testing LR images by down-sampling HR images with scaling factors (x2, x3, x4, or x8) using bicubic interpolation to be able to assess the images on an objective method (PSNR/SSIM). We used 4 testing datasets, two widely used benchmark datasets: **Set5, Set14, and a medical dataset, and our created datasets**. The low-resolution images have been used as inputs to the model, and the original resolution images from the datasets have been used as the ground-truth images.
 ### The test datasets ( Low and High resolution images with different scale )
-[Set5 dataset](https://drive.google.com/drive/u/0/folders/1_A7Tp2PLx9FULiZRj9yDVfJnuo2cHJ-Z)
+[Set5 dataset](https://paperswithcode.com/dataset/set5)
 
-[Set14 dataset](https://drive.google.com/drive/u/0/folders/1XV7F4zpCHenQk99bBg0aTo8i0B2yDERT)
+[Set14 dataset](https://paperswithcode.com/dataset/set5)
 
-[Medical dataset](https://drive.google.com/drive/u/0/folders/1_aUXgZkGojVar6zvGgxe45rTCPrTsNeZ)
+[Medical dataset]()
 
-[our dataset](https://drive.google.com/drive/u/0/folders/12Woe0CqmZ5HbZTh4fiBTXTYZFSpsjeA3)
+[our dataset]()
 
 ## Results
 The performance can be assessed in 3 factors objectively (PSNR and SSIM), subjectively and time of processing (time taken for each model to predict the super resolution image).
