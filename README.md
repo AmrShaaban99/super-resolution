@@ -75,7 +75,7 @@ The time by seconds taken for some images (from test datasets) to be converted t
 | --------| ------------- | ---------- |----------------  |
 | SRCNN                         | 0.96     | 0.31   |0.29 |
 | FSRCNN                        | 0.31     | 0.19   |0.08 |
-| ESPCN                         |   0.20   | 0.08   |0.09 |
+| ESPCN                         | 0.20     | 0.08   |0.09 |
 | RDN                           | 82.01    |22.84   |22.02|
 | RFDN                          | 1.76     |0.54    |0.49 |
 | Autoencoder  (Deconvolution)  | 0.97     | 0.57   |0.32 |
@@ -83,7 +83,7 @@ The time by seconds taken for some images (from test datasets) to be converted t
 
 From the previous table, we can conclude that **FSRCNN and ESPCN** are the **fastest models**.While **RDN and ESRGAN** are the **slowest models**.
 
-## GUI
+## GUI 
 
 We have used Tkinter library to create our application, Tkinter library is a cross-platform GUI framework that comes built into the Python standard.Our application consists of three pages: 
 First Page:
@@ -92,7 +92,7 @@ The first page consists of  3 buttons, 2 dropdown menus, display image, loading 
 <img src="readme_images/unknown1.png" width="600"  height="400" palceholder="page one"/>
 <img src="readme_images/unknown.png" width="600"  height="400" palceholder="page one"/>
 <img src="readme_images/unknown3.png" width="600"  height="400" palceholder="page one"/>
-
+  
 
 Second Page:
 The second page show displays which are Input Image (Low Resolution Image), Output Image (Super resolution Image), Image size (before and after scaling), The chosen modelwith 2 buttons as shown in figure below.
