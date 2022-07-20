@@ -15,14 +15,12 @@ Image super-resolution (ISR) is the process of recovering high-resolution (HR) i
 
 
 ## Requirements
-*	Python 
-*	Tensorflow 
-*	Keras 
-*	Open-Source Computer Vision Library (Cv2)
-*	matplotlib
-*	skimage
-*	functools
-*	Abseil Python Common Libraries ( absl )
+*	Python :3.8.8
+*	Tensorflow :2.3.0
+*	Keras :2.4.0
+*	Open-Source Computer Vision Library (Cv2):4.0.1
+*	matplotlib :3.3.4
+*	skimage :0.18.1
 
 ## Training 
 The seven models have been trained on DIV2K dataset, which contains **900 RGB images**  with different scenes and sizes with PNG extension.We have divided those 900 images to 80% for training and 20% for validation. The models have been trained in different scales (x2, x3, x4, or x8). The models have been trained from 50 to 120 epochs, ADAM optimizer, MSE loss function, RELU activation function, and 10-3 learning rate. the models have been trained on **Saturn Cloud Server** having the following specifications: Size: **8 cores – 64 GB RAM, 40Gi Disk Space – CPU Hardware**.
