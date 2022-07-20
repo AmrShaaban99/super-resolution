@@ -36,7 +36,7 @@ We have generated the testing LR images by down-sampling HR images with scaling 
 
 [our dataset](https://drive.google.com/drive/u/0/folders/12Woe0CqmZ5HbZTh4fiBTXTYZFSpsjeA3)
 
-## Results
+## Results 
 The performance can be assessed in 3 factors objectively (PSNR and SSIM), subjectively and time of processing (time taken for each model to predict the super resolution image).
 
 ### Set5 Dataset Results Objectively:
