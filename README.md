@@ -58,12 +58,12 @@ The performance can be assessed in 3 factors objectively (PSNR and SSIM), subjec
 
 From the previous table, we have assumed that for scale 2 the best results are for **Autoencoder (Deconvolution)** with results (34.45608/ 0.9142) and **RFDN** with results (34.13620/ 0.9069), While the worst results for **Let’s enhance** are (31.43409/0.80774) and **ESPCN** with results (31.66237/ 0.8891). However, for scale 4 ESRGAN has the best results are (32.0604/0.8103).
 
-### The subjective
+### The subjective 
 ### comic image 
 ![comic image](readme_images/set14_comic.png)
-
+ 
 ### woman image
-![woman image](readme_images/set5-woman.png)
+![woman image](readme_images/set5-woman.png) 
 
 
 From the previous Images, The most consistent model over all the tested datasets is the RFDN, and Let’s Enhance.
