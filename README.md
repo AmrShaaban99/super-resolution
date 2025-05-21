@@ -9,7 +9,7 @@ you can download it from here: [GUI](https://drive.google.com/drive/u/0/folders/
 * [Testing](#testing)
 * [Results](#results)
 * [GUI](#gui)
-
+.
 ## Abstract
 Image super-resolution (ISR) is the process of recovering high-resolution (HR) images from low-resolution (LR) images. In the last two decades, significant progress has been made in the field of super resolution, especially by utilizing deep learning methods.  Seven models have been  implemented based on Convolutional Neural Networks (CNN) which are Image Super-Resolution Using Deep Convolutional Networks (SRCNN), Fast Super Resolution Convolutional Neural Network (FSRCNN), Residual Dense Network (RDN), Efficient Sub-Pixel Convolutional neural network (ESPCN), Residual Feature Distillation Network for Lightweight Image Super-Resolution (RFDN), and Deep Auto-encoder for Single Image Super-Resolution, Enhanced super resolution Generative Adversarial Network (ESRGAN). 
 
